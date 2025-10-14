@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IdDSpKrsy7nu7wkY2np4EmUR368FCi5jlLkxkYgx98E=",
+  "Source": "QueueProcessor.Api",
+  "BasePath": "_content/QueueProcessor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
